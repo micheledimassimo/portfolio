@@ -6,18 +6,11 @@ export default {
       projects: [
         {
           id: 1,
-          title: 'Sams SRL - W.I.P',
-          description: 'Realizzazione del sito web per Sams SRL. Sito multipagina e multilinuga, gestito dinamicamente con Vue Router',
-          techStack: ['Vue.js', 'Vue Router', 'Scss'],
-          link: '#'
+          title: 'Sams S.R.L.',
+          description: 'Realizzazione del sito web per conto di Sams S.R.L. Sito multipagina e multilinuga, gestito dinamicamente con Vue Router',
+          techStack: ['Vue.js', 'Vue Router', 'Scss', 'HTML'],
+          link: 'https://samsstudio.it/'
         },
-        /* {
-          id: 2,
-          title: 'Admin Dashboard',
-          description: 'A responsive, dark-mode analytics dashboard showing real-time metrics.',
-          techStack: ['HTML5', 'CSS3', 'JavaScript', 'Vite'],
-          link: '#'
-        }, */
         {
           id: 3,
           title: 'DeliveBoo',
